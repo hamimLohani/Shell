@@ -1,0 +1,6 @@
+hello foo (from Func)
+hello fin (from Func)
+hello c (from Func)
+hello foo (from Func)
+hello fin (from Func)
+hello c (from Func)

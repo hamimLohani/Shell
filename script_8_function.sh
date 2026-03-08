@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 
 chech_even() {
     n=100

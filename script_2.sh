@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 
 echo "My current directory : "
 pwd

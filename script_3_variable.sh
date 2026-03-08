@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 
 name="Hamim"
 age="40"
